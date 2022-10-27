@@ -1,0 +1,46 @@
+body {
+    background: rgb(56, 154, 255);
+    background: radial-gradient(circle, rgba(56, 154, 255, 1) 23%, rgba(0, 0, 0, 1) 74%);
+    font-family: 'Roboto', sans-serif;
+
+}
+
+/* 
+#results {
+    display: none;
+} */
+
+h1 {
+    font-family: 'Stick No Bills', sans-serif;
+    font-size: 3rem;
+    letter-spacing: 7px;
+    font-weight: 400;
+}
+
+#results {
+    font-family: 'Stick No Bills', sans-serif;
+    font-size: 3rem;
+    letter-spacing: 7px;
+    font-weight: 400;
+}
+
+.card {
+    border-radius: 10px;
+    height: 600px;
+    /* padding: 20px; */
+    padding: 30px;
+
+}
+
+
+input,
+span {
+    margin-top: 30px;
+    margin-top: 30px;
+}
+
+.input-group-addon {
+    background-color: white;
+    color: #52E5E7;
+    border: 1px solid #52E5E7;
+}
